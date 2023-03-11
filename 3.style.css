@@ -1,0 +1,151 @@
+*{margin: 0;
+    padding: 0;}
+body{
+    background-color: rgb(192, 187, 187);
+    background-size: cover;
+    
+}
+.container1{
+   
+    border: 6px red solid;
+border-radius: 10px;
+color: rgb(80, 24, 94);
+box-shadow: 15px 15px 10px;
+text-shadow: 3px 3px 3px;
+background-color: white;
+text-align: center;
+height: 170px;
+width: 400px;
+font-size: xx-large;
+text-transform: capitalize;
+font-weight: 600;
+padding: 10px;
+margin: auto;
+margin-bottom: 20px;
+justify-content: center;
+}
+
+
+.container2{border: 6px solid rgb(9, 109, 52);
+    margin: 20px 10px;
+    height: 800px;
+    display: flex;
+    position: relative;
+   
+
+}
+.btn{text-transform: capitalize;
+    background-color: rgb(255, 94, 94);
+    border-radius:20px;
+    padding: 10px;
+}
+
+
+.box{
+  
+    color: rgb(80, 24, 94); 
+    border: 5px solid red;
+border-radius: 20px;
+height: 160px;
+width: 150px;
+background-color: white;
+text-align: center;
+text-transform: capitalize;
+text-shadow: 1px 1px 2px;
+font-weight:bold;
+text-align: center;
+padding: 50px;
+font-size:x-large;
+box-shadow: 12px 12px 10px;
+
+
+
+}
+.box1{position: absolute;
+top: 20px;
+left: 0px;}
+.box2{position: absolute;
+top: 20px;
+right: 30px;
+}
+.box3{position: absolute;
+bottom: 20px;
+left: 0px;}
+.box4{position: absolute;
+    bottom: 20px;
+  right: 30px;}
+
+
+
+  .fixed{border: 6px red solid;
+      background-color: green;
+    color: rgb(158, 11, 11);
+border-radius: 20px;
+  display: flex;
+ 
+  height: 100px;
+  width: 400px;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+  position: fixed;
+  left: 34%;
+   top: 450px;
+  
+}
+#fixed1{padding: 30px;
+    text-align: center;}
+#fixed2{padding: 20px;
+text-align: center;}
+
+
+
+  .container3{
+    border: 6px solid purple;
+    margin: 20px 10px;
+    height: 600px;
+ 
+    background-color: green;
+    margin: 20px 300px;
+    align-items: center;
+    
+    }  
+
+    
+.store{
+
+text-transform: capitalize;
+padding-top: 10px;
+padding-left: 200px;}    
+
+
+
+
+.sd{border: 1px solid gainsboro;
+    background-color: blanchedalmond;}         
+
+.neon1{height: 300px;
+width: 300px;
+float: left;
+text-transform: capitalize;
+text-align: center;
+}    
+.neon2{height: 300px;
+    width: 300px;
+float: right;
+text-transform: capitalize;
+text-align: center;}    
+.neon3{
+    border: 1px solid gainsboro;
+    background-color: blanchedalmond;
+    text-transform: capitalize;
+text-align: center;
+   margin-top: 300px;
+    width: 600px;
+    height: 220px;
+    padding-left: 12px;
+    
+    }
+/* .otheritems{   background-color: blanchedalmond;} */
+    
+    
